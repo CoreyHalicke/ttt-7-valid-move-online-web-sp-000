@@ -2,7 +2,7 @@
 
 
 def valid_move?(board, index)
-
+  if index.
   end
 end
 
